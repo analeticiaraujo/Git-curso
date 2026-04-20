@@ -12,5 +12,8 @@ MODO DE PREPARO
 Preaqueça o forno a 180 graus Celcius (temperatura média).
 Unte com manteiga uma forma retangular de 30 cm x 20 cm por 5 cm.
 Polvilhe com farinha de trigo, chacoalhe e bata sobre a pia para tirar o excesso.
+<<<<<<< HEAD
 
 Deixar no forno por aproximadamente 30 minutos.
+=======
+>>>>>>> 9502f1613ff59ea5b145f4686503d2bcca3a7a8a
